@@ -1,0 +1,9 @@
+ddgs import DDGS
+colorama
+colorama import Fore, Style
+time
+sys
+os
+termcolor import colored
+pystyle
+pystyle import Colors, Colorate
